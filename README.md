@@ -57,6 +57,8 @@ To discover (supported) HR monitors:
 ╘════════════════════╧══════════════════════════════════════╧══════════════╧═══════════════╛
 ```
 
+Note for linux: A address looks like `C1:94:A2:E3:86:A9`.
+
 Connect and stream interbeat interval 
 
 Consume data stream with a callback
