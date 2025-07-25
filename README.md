@@ -13,6 +13,7 @@ Blehrm provides a simple asynchronous platform to connect with commonly availabl
 - Garmin HRM Pro
 - Movesense
 - CL800
+- Coospo H6M
 
 ## Installation
 
